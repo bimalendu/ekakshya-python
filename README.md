@@ -1,2 +1,2 @@
 # ekakshya-python
-Lessons in python  developed at ekakshya
+Lessons in python3 created for ekakshya.com
